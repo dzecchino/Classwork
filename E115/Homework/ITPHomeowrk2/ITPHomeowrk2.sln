@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ITPHomeowrk2", "ITPHomeowrk2\ITPHomeowrk2.vcxproj", "{0BBB78B9-49F1-4080-89C6-E1C4698917D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBB78B9-49F1-4080-89C6-E1C4698917D5}.Debug|x64.ActiveCfg = Debug|x64
+		{0BBB78B9-49F1-4080-89C6-E1C4698917D5}.Debug|x64.Build.0 = Debug|x64
+		{0BBB78B9-49F1-4080-89C6-E1C4698917D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{0BBB78B9-49F1-4080-89C6-E1C4698917D5}.Debug|x86.Build.0 = Debug|Win32
+		{0BBB78B9-49F1-4080-89C6-E1C4698917D5}.Release|x64.ActiveCfg = Release|x64
+		{0BBB78B9-49F1-4080-89C6-E1C4698917D5}.Release|x64.Build.0 = Release|x64
+		{0BBB78B9-49F1-4080-89C6-E1C4698917D5}.Release|x86.ActiveCfg = Release|Win32
+		{0BBB78B9-49F1-4080-89C6-E1C4698917D5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {806B4320-68BE-4BE0-BD25-69FF6AB69FC2}
+	EndGlobalSection
+EndGlobal

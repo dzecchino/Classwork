@@ -1,0 +1,5 @@
+﻿  ITPLabHomework7.cpp
+c:\users\dzecc\source\repos\itplabhomework7\itplabhomework7\itplabhomework7.cpp(32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dzecc\source\repos\itplabhomework7\itplabhomework7\itplabhomework7.cpp(42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dzecc\source\repos\itplabhomework7\itplabhomework7\itplabhomework7.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  ITPLabHomework7.vcxproj -> C:\Users\dzecc\source\repos\ITPLabHomework7\Debug\ITPLabHomework7.exe

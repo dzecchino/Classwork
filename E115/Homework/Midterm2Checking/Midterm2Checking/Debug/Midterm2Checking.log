@@ -1,0 +1,4 @@
+﻿  Midterm2Checking.cpp
+c:\users\dzecc\source\repos\midterm2checking\midterm2checking\midterm2checking.cpp(125): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dzecc\source\repos\midterm2checking\midterm2checking\midterm2checking.cpp(118): warning C4101: 'x': unreferenced local variable
+  Midterm2Checking.vcxproj -> C:\Users\dzecc\source\repos\Midterm2Checking\Debug\Midterm2Checking.exe

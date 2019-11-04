@@ -1,0 +1,3 @@
+﻿  ITPLabHomework.cpp
+c:\users\dzecc\source\repos\itplabhomework6\itplabhomework6\itplabhomework.cpp(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ITPLabHomework6.vcxproj -> C:\Users\dzecc\source\repos\ITPLabHomework6\Debug\ITPLabHomework6.exe

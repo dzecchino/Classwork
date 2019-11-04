@@ -1,0 +1,4 @@
+﻿  WordCount.cpp
+c:\users\dzecc\source\repos\wordcount\wordcount\wordcount.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\dzecc\source\repos\wordcount\wordcount\wordcount.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  WordCount.vcxproj -> C:\Users\dzecc\source\repos\WordCount\Debug\WordCount.exe

@@ -1,0 +1,3 @@
+﻿  ITPLecture4.cpp
+c:\users\dzecc\source\repos\itplecture4\itplecture4\itplecture4.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ITPLecture4.vcxproj -> C:\Users\dzecc\source\repos\ITPLecture4\Debug\ITPLecture4.exe

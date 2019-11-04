@@ -1,0 +1,2 @@
+﻿  Yea.cpp
+c:\users\dzecc\source\repos\yea\yea\yea.cpp(9): error C2676: binary '*': 'std::string' does not define this operator or a conversion to a type acceptable to the predefined operator

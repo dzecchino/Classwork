@@ -1,0 +1,4 @@
+﻿  ITPLectureClassesOfVariables.cpp
+c:\users\dzecc\source\repos\itplectureclassesofvariables\itplectureclassesofvariables\itplectureclassesofvariables.cpp(44): warning C4101: 'x': unreferenced local variable
+c:\users\dzecc\source\repos\itplectureclassesofvariables\itplectureclassesofvariables\itplectureclassesofvariables.cpp(46): warning C4101: 'moneyy': unreferenced local variable
+  ITPLectureClassesOfVariables.vcxproj -> C:\Users\dzecc\source\repos\ITPLectureClassesOfVariables\Debug\ITPLectureClassesOfVariables.exe

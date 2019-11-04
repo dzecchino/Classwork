@@ -1,0 +1,3 @@
+﻿  Shapes.cpp
+c:\users\dzecc\source\repos\shapes\shapes\shapes.cpp(12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Shapes.vcxproj -> C:\Users\dzecc\source\repos\Shapes\Debug\Shapes.exe
